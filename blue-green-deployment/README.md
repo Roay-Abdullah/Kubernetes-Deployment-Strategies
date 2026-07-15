@@ -26,15 +26,13 @@
 
 ### Prerequisites to try this:
 
-1. EC2 Instance with Ubuntu OS
+1. Docker installed & Configured
 
-2. Docker installed & Configured
+2. Kind Installed
 
-3. Kind Installed
+3. Kubectl Installed
 
-4. Kubectl Installed
-
-5. Kind Cluster running(Use `kind-config.yml` file present in this root directory.)
+4. Kind Cluster running(Use `kind-config.yml` file present in this root directory.)
 
 >   [!NOTE]
 > 
