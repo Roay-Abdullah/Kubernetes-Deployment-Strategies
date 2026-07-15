@@ -1,4 +1,4 @@
-# Deployment Strategies in kubernetes
+# Deployment Strategies in Kubernetes
 
 - What is Deployment and Deployment strategies ?
   
