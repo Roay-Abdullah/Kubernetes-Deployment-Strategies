@@ -17,6 +17,6 @@
 | Types    | Links |
 | -------- | ------- |
 | Recreate | <a href="https://github.com/Roay-Abdullah/Kubernetes-Deployment-Strategies/tree/main/recreate-deployment">Click me</a>     |
-| Rolling Update | <a href="https://github.com/Roay-Abdullah/Kubernetes-Deployment-Strategies/tree/main/rolling-update-Deployment">Click me</a>     |
+| Rolling Update | <a href="https://github.com/Roay-Abdullah/Kubernetes-Deployment-Strategies/tree/main/rolling-update-deployment">Click me</a>     |
 | Blue-green | <a href="https://github.com/Roay-Abdullah/Kubernetes-Deployment-Strategies/tree/main/blue-green-deployment">Click me</a>     |
 | Canary | <a href="https://github.com/Roay-Abdullah/Kubernetes-Deployment-Strategies/tree/main/canary-deployment">Click me</a>     |
